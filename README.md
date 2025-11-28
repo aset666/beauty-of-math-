@@ -10,47 +10,12 @@ It is dedicated to someone special:
 
 The heart shape is generated using the following function:
 
-𝐿
-𝑂
-𝑉
-𝐸
-(
-𝑥
-)
-=
-𝑥
-2
-3
-+
-𝑒
-3
-𝜋
-−
-𝑥
-2
-⋅
-sin
-⁡
-(
-𝑎
-𝜋
-𝑥
-)
-LOVE(x)=x
-3
-2
-	​
+## 💗 Mathematical Formula
 
-+
-3
-e
-	​
+$$
+LOVE(x) = x^{\frac{2}{3}} + \frac{e}{3}\sqrt{\pi - x^2}\,\sin(a\pi x)
+$$
 
-π−x
-2
-	​
-
-⋅sin(aπx)
 
 As the parameter a increases, the curve starts pulsing like a real heartbeat.
 
