@@ -1,14 +1,13 @@
-# beauty-of-math-
-❤️ Love Function Animation
+❤️ Love Function Animation — For Balym
+A mathematical heartbeat created with Python
+<p align="center"> <img src="love.gif" width="350"> </p>
+🌟 About the Project
 
-A short mathematical art project combining math, creativity, and animation.
-This project draws and animates a "love curve" using Python, NumPy, and Matplotlib.
-It symbolizes love for mathematics and can even be used as a romantic gift for someone special.
+This project visualizes a unique “LOVE(x)” function — a curve that forms a beating heart using pure mathematics.
 
-📌 About the Project
+It is dedicated to someone special:
 
-This project creates an animated plot of a custom "LOVE(x)" function:
-
+<p align="center"> <b>✨ For Balym ✨</b> </p>
 𝐿
 𝑂
 𝑉
@@ -23,12 +22,10 @@ This project creates an animated plot of a custom "LOVE(x)" function:
 +
 𝑒
 3
-(
 𝜋
 −
 𝑥
 2
-)
 ⋅
 sin
 ⁡
@@ -47,77 +44,55 @@ LOVE(x)=x
 e
 	​
 
-(π−x
+π−x
 2
-)
 	​
 
 ⋅sin(aπx)
 
-The animation changes the parameter a, causing the heart-shaped curve to “beat” like a real heart.
+When the parameter a changes, the curve pulses like a real heartbeat — symbolizing emotions that grow stronger over time.
 
-It generates a GIF:
+💖 Why This Project Exists
 
-love.gif
+Because math is beautiful.
+Because creativity is beautiful.
+And because Balym deserves something beautiful too.
 
 ✨ Features
 
-Animated mathematical visualization
+Animated heart curve
 
-Smooth heartbeat-like motion
+Smooth heartbeat effect
 
-Colorful romantic theme
+Auto-generated GIF: love.gif
 
-Created entirely with Python
+Minimal and expressive design
 
-Outputs a GIF animation
+Perfect as a digital gift for Balym
 
-Great as a fun project, portfolio piece, or a gift for someone you care about ❤️
-
-📦 Requirements
-
-Install the necessary libraries:
-
+🧰 Requirements
 pip install matplotlib numpy
 
 
-You also need FFmpeg installed on your system (matplotlib uses it to save GIFs).
+Also install FFmpeg to export animations.
 
 ▶️ How to Run
-
-Save the script as heart.py
-
-Run the file:
-
 python heart.py
 
 
-The script will generate:
+After running, you will get:
 
 love.gif
 
+🧠 How It Works
 
-The animation will also appear in a Matplotlib window.
+Generates x-values with NumPy
 
-📜 Code Explanation
+Computes heart function values
 
-NumPy generates x-coordinates
+Animates the heartbeat with FuncAnimation
 
-The mathematical formula computes y
+Saves the animation using FFmpeg
 
-Matplotlib animates the curve
-
-FuncAnimation updates the function for each frame
-
-FFmpeg is used to save the animation as a GIF
-
-💖 Meaning
-
-This project is a symbolic blend of mathematics and emotion.
-You can use it to express:
-
-Love for math
-
-Love for creativity
-
-Love for a specific person
+💌 Message for Balym
+<p align="center"> <i>“Some people receive flowers. Some receive chocolates. But only someone special receives a heartbeat drawn with mathematics.”</i> </p>
