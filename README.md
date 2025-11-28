@@ -1,5 +1,5 @@
 ❤️ Love Function Animation — For Balym
-A mathematical heartbeat created with Python
+a mathematical heartbeat created with Python
 <p align="center"> <img src="love.gif" width="350"> </p>
 🌟 About the Project
 
@@ -46,8 +46,7 @@ e
 
 π−x
 2
-	​
-
+	
 ⋅sin(aπx)
 
 When the parameter a changes, the curve pulses like a real heartbeat — symbolizing emotions that grow stronger over time.
