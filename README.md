@@ -1,13 +1,15 @@
 ❤️ Love Function Animation — For Balym
-a mathematical heartbeat created with Python
-<p align="center"> <img src="love.gif" width="350"> </p>
+<p align="center"> <img src="love.gif" width="330"> </p>
 🌟 About the Project
 
-This project visualizes a unique “LOVE(x)” function — a curve that forms a beating heart using pure mathematics.
-
+This project visualizes a unique mathematical function that forms an animated, beating heart.
 It is dedicated to someone special:
 
 <p align="center"> <b>✨ For Balym ✨</b> </p>
+💗 Mathematical Formula
+
+The heart shape is generated using the following function:
+
 𝐿
 𝑂
 𝑉
@@ -46,34 +48,34 @@ e
 
 π−x
 2
-	
+	​
+
 ⋅sin(aπx)
 
-When the parameter a changes, the curve pulses like a real heartbeat — symbolizing emotions that grow stronger over time.
-
-💖 Why This Project Exists
-
-Because math is beautiful.
-Because creativity is beautiful.
-And because Balym deserves something beautiful too.
+As the parameter a increases, the curve starts pulsing like a real heartbeat.
 
 ✨ Features
 
-Animated heart curve
+Animated heart-shaped function
 
 Smooth heartbeat effect
 
-Auto-generated GIF: love.gif
+Auto-generated GIF (love.gif)
 
-Minimal and expressive design
+Romantic visual dedicated to Balym
 
-Perfect as a digital gift for Balym
+Minimal clean formula rendering on GitHub
+
+Great for portfolio or as a digital gift
 
 🧰 Requirements
+
+Install required libraries:
+
 pip install matplotlib numpy
 
 
-Also install FFmpeg to export animations.
+Install FFmpeg for saving animations as GIF.
 
 ▶️ How to Run
 python heart.py
@@ -83,15 +85,18 @@ After running, you will get:
 
 love.gif
 
+
+And the animation will display on screen.
+
 🧠 How It Works
 
-Generates x-values with NumPy
+Generate x-values with NumPy
 
-Computes heart function values
+Compute LOVE(x) for each animation frame
 
-Animates the heartbeat with FuncAnimation
+Use FuncAnimation to animate parameter “a”
 
-Saves the animation using FFmpeg
+Save final GIF using Matplotlib + FFmpeg
 
 💌 Message for Balym
-<p align="center"> <i>“Some people receive flowers. Some receive chocolates. But only someone special receives a heartbeat drawn with mathematics.”</i> </p>
+<p align="center"> <i> “Some gifts are simple. Some gifts are sweet. But only someone truly special receives a heartbeat written with mathematics.” </i> </p>
